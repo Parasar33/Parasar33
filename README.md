@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java , Data structures and android development**
 
-- 👨‍💻 All of my projects are available at [https://parasar33.github.io/Rishav_resume](https://parasar33.github.io/Rishav_resume)
+- 👨‍💻 All of my projects are available at Github And [https://parasar33.github.io/Rishav_resume](https://parasar33.github.io/Rishav_resume)
 
 - 📫 How to reach me **rishavparasar2004@gmail.com**
 
