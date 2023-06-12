@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasar33&label=Profile%20views&color=0e75b6&style=flat" alt="parasar33" /> </p>
 
-- 🌱 I’m currently learning **Java , Data structures and android development**
+- 🌱 I’m currently learning **Java , Data structures and Backend Development**
 
 - 👨‍💻 All of my projects are available at Github And [https://parasar33.github.io/Rishav_resume](https://parasar33.github.io/Rishav_resume)
 
