@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishav</h1>
 <h3 align="center">Enthusiastic backend junior year programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcarlyberry.me%2Fportrait-animated-gif&psig=AOvVaw1Z1BECMc_McAWkV5rXk0lg&ust=1693664995594000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODz2fTPiYEDFQAAAAAdAAAAABAR">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasar33&label=Profile%20views&color=0e75b6&style=flat" alt="parasar33" /> </p>
 
